@@ -9,11 +9,11 @@ This repository hosts the final version of my PhD thesis: 📄 [Download PDF](ht
 
 - [Chapter 2](https://link.springer.com/chapter/10.1007/978-3-031-80793-0_2): De Vos, S., De Smedt, J., Wuytens, C., & Verbeke, W. (2025). *Leveraging process mining to optimize internal employee mobility strategies.* In *Business Process Management Cases, Vol. 3: Implementation in Practice* (pp. 15-28). Springer. DOI: 10.1007/978-3-031-80793-0\_2 
 
-- [Chapter 3](https://link.springer.com/article/10.1007/s12599-024-00898-z): De Vos, S., Bockel-Rickermann, C., Van Belle, J., & Verbeke, W. (2024). *Predicting employee turnover: Scoping and benchmarking the state-of-the-art.* *Business & Information Systems Engineering.* Advance online publication. DOI: 10.1007/s12599-024-00898-z
+- [Chapter 3](https://link.springer.com/article/10.1007/s12599-024-00898-z): De Vos, S., Bockel-Rickermann, C., Van Belle, J., & Verbeke, W. (2024). *Predicting employee turnover: Scoping and benchmarking the state-of-the-art.* *Business & Information Systems Engineering.* (pp. 1-20). DOI: 10.1007/s12599-024-00898-z
 
-- [Chapter 4](https://doi.org/10.1016/j.knosys.2024.111824): De Vos, S., De Smedt, J., Verbruggen, M., & Verbeke, W. (2024). *Data-driven internal mobility: Similarity regularization gets the job done.* *Knowledge-Based Systems, 295*, 111824. Available online. DOI: 10.1016/j.knosys.2024.111824 
+- [Chapter 4](https://doi.org/10.1016/j.knosys.2024.111824): De Vos, S., De Smedt, J., Verbruggen, M., & Verbeke, W. (2024). *Data-driven internal mobility: Similarity regularization gets the job done.* *Knowledge-Based Systems, 295*, 111824. DOI: 10.1016/j.knosys.2024.111824 
 
-- [Chapter 5](https://link.springer.com/article/10.1007/s11634-022-00533-3): De Vos, S., Vanderschueren T., Verdonck T., Verbeke W. (2023). *Robust instance-dependent cost-sensitive classification.* *Advances in Data Analysis and Classification, 17*(4), 1057-1079. DOI: 10.1007/s11634-022-00515-y 
+- [Chapter 5](https://link.springer.com/article/10.1007/s11634-022-00533-3): De Vos, S., Vanderschueren T., Verdonck T., Verbeke W. (2023). *Robust instance-dependent cost-sensitive classification.* *Advances in Data Analysis and Classification, 17*(4), 1057-1079. DOI: 10.1007/s11634-022-00533-3
 
 - [Chapter 6](https://arxiv.org/abs/2504.20642): De Vos, S., Van Belle, J., Algaba, A., Verbeke, W., Verboven, S. (2025). *Decision-centric fairness: Evaluation and optimization for resource allocation problems.* *arXiv:2504.20642.* 
 
